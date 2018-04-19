@@ -9,7 +9,7 @@
 #import "ViewController.h"
 #import "GuideView.h"
 @interface ViewController ()
-
+@property (nonatomic,strong)NSString * myStr;
 @end
 
 @implementation ViewController
