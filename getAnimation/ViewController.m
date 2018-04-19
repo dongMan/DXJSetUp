@@ -11,6 +11,7 @@
 @interface ViewController ()
 @property (nonatomic,strong)NSString * myStr1;
 @property (nonatomic,strong)NSString * myStr2;
+@property (nonatomic,strong)NSString * myStr3;
 @end
 
 @implementation ViewController
